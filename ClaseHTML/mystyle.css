@@ -1,0 +1,13 @@
+body{
+    box-sizing: 10px;
+    background-color: aqua;
+}
+article{
+    background-color: rgb(178, 129, 224);
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+header{
+    background-color: rgb(227, 36, 218);
+}
