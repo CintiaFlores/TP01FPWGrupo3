@@ -11,3 +11,8 @@ article{
 header{
     background-color: rgb(227, 36, 218);
 }
+/*--.container-fluid{
+    display: grid;
+    grid-template-columns: 4fr 2fr;
+    grid-gap: 100px;
+}--*/
